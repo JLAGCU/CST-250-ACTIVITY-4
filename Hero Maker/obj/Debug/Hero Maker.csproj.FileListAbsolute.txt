@@ -1,0 +1,12 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\bin\Debug\Hero Maker.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\bin\Debug\Hero Maker.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\bin\Debug\Hero Maker.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero_Maker.Form1.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero_Maker.Properties.Resources.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.csproj.GenerateResource.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero Maker.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Hero Maker\Hero Maker\obj\Debug\Hero_Maker.Form2.resources
