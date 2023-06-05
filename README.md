@@ -6,14 +6,14 @@ During this activity, students will use a variety of controls on a form to creat
 
 Windows Application running:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-4/blob/main/Images/3.1%20Console%20Output.png)
+![alt text](https://github.com/JLAGCU/CST-250-ACTIVITY-4/blob/main/Images/Windows%20Form1.png?raw=true)
 
 
 Windows Application running:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-4/blob/main/Images/3.1%20Console%20Output.png)
+![alt text](https://github.com/JLAGCU/CST-250-ACTIVITY-4/blob/main/Images/Windows%20Form2.png?raw=true)
 
 
 Windows Application running:
 
-![alt text](https://github.com/JLAGCU/CST-250-Activity-4/blob/main/Images/3.1%20Console%20Output.png)
+![alt text](https://github.com/JLAGCU/CST-250-ACTIVITY-4/blob/main/Images/Windows%20Form3.png?raw=true)
